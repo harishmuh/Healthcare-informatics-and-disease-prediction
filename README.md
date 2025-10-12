@@ -12,8 +12,10 @@ Analytics and predictive modeling application on the health, biological, and dis
   * Developed a model to predict prediabetes risks using research data.
 - ❤️ **[Heart Disease Prediction](https://github.com/harishmuh/Heart-diseases-prediction-Machine-Learning--App)**
   * Created a classifier to assess heart disease risks based on medical records.
-- 🧬 **[Acute Leukimia Prediction](https://github.com/harishmuh/Gene-Expression_Acute-Leukimia_MLClassification)**
+- 🧫 **[Acute Leukimia Prediction](https://github.com/harishmuh/Gene-Expression_Acute-Leukimia_MLClassification)**
   * Constructed a prediction model based on gene expression data (DNA microarray) to discriminate whether a patient's acute leukemia case is considered as AML (Acute Myeloid Leukemia) or ALL (Acute Lymphoblastic Leukemia)
+- 🧬 **[COVID19 positivity prediction](https://github.com/harishmuh/COVID19_Prediction/tree/main)**
+
 
 ---
 ## Data Visualization
