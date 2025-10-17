@@ -13,7 +13,7 @@ Analytics and predictive modeling application on the health, biological, and dis
 - ❤️ **[Heart Disease Prediction](https://github.com/harishmuh/Heart-diseases-prediction-Machine-Learning--App)**
   * Created a classifier to assess heart disease risks from patient data.
 - 🧫 **[Acute Leukimia Prediction](https://github.com/harishmuh/Gene-Expression_Acute-Leukimia_MLClassification)**
-  * Used **gene expression (microarray)** data to classify **AML vs ALL**.
+  * Used gene expression (microarray) data to classify two types of Acute leukemia (AML vs ALL).
 - 🧬 **[COVID19 positivity prediction](https://github.com/harishmuh/COVID19_Prediction/tree/main)**
   * Modeled patient test results to predict COVID-19 positivity.
 
