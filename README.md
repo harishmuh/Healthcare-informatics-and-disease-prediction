@@ -1,4 +1,4 @@
-# Healthcare informatics and disease prediction
+# Healthcare informatics and disease prediction machine learning
 Analytics and predictive modeling application on the health, biological, and disease data 
 
 ## Health informatics
