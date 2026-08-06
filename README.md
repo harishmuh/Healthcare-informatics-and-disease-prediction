@@ -3,16 +3,17 @@ Analytics and predictive modeling application on the health and biomedical data
 
 
 ### 🩺 Machine learning and deep learning for disease prediction
+- 🩺 **[Explainable AI project for Chest X-ray imaging](https://github.com/harishmuh/Explaining-AI-decision-in-chest-X-rays-using-Grad-CAM/tree/main)**
+  -  Explainability Analysis of Multi-label Thoracic Disease Predictions from Chest X-ray Images Using Pretrained DenseNet21 Model and Grad-CAM
+- 🧬 **[COVID19 positivity prediction](https://github.com/harishmuh/COVID19_Prediction/tree/main)**
+  * Modeled patient test results to predict COVID-19 positivity.
 - 💊 **[Early Risk Diabetes Prediction](https://github.com/harishmuh/Early-Risk-Diabetes-predictor-Machine-Learning-and-app)**
   * Developed a model to predict prediabetes risks.
 - ❤️ **[Heart Disease Prediction](https://github.com/harishmuh/Heart-diseases-prediction-Machine-Learning--App)**
   * Created a classifier to assess heart disease risks from patient data.
 - 🧫 **[Acute Leukimia Prediction](https://github.com/harishmuh/Gene-Expression_Acute-Leukimia_MLClassification)**
   * Used gene expression (microarray) data to classify two types of Acute leukemia (AML vs ALL).
-- 🧬 **[COVID19 positivity prediction](https://github.com/harishmuh/COVID19_Prediction/tree/main)**
-  * Modeled patient test results to predict COVID-19 positivity.
-- 🩺 **[Explainable AI project for Chest X-ray imaging](https://github.com/harishmuh/Explaining-AI-decision-in-chest-X-rays-using-Grad-CAM/tree/main)**
-  -  Explainability Analysis of Multi-label Thoracic Disease Predictions from Chest X-ray Images Using Pretrained DenseNet21 Model and Grad-CAM
+
 
 ### 📈 Healthcare analytics
 
